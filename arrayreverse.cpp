@@ -3,8 +3,8 @@
 #include<conio.h>
 using namespace std;
 void traverse(int,int,int[],int);
+//void reverse(int,int,int[],int);
 void reverse(int,int,int[],int);
-
 void traverse(int lb,int ub,int list[],int max)
 {
  if(lb>ub)
